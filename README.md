@@ -23,8 +23,8 @@ First, install `python` and `pip` latest version.
 
 ```
 > git clone https://github.com/mostafaghadimi/DigiKala_Crawler.git
-
 > cd DigiKala_Crawler
+> pip3 install -r requirements.txt
 > scrapy crawl comment -o comments.json    
 ```
 
