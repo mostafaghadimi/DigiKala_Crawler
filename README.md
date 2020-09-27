@@ -7,7 +7,6 @@
 
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/Mostafaghadimi/DigiKala_Crawler.svg)](http://hits.dwyl.com/Mostafaghadimi/DigiKala_Crawler)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
@@ -26,6 +25,6 @@ First, install `python` and `pip` latest version.
 > git clone https://github.com/mostafaghadimi/DigiKala_Crawler.git
 
 > cd DigiKala_Crawler
-> scrapy crawl comment -t csv -o comments.csv     
+> scrapy crawl comment -o comments.json    
 ```
 
